@@ -1,0 +1,22 @@
+body {
+    background: #273c75;
+    padding: 150px;
+    text-align: center;
+}
+
+.controls {
+text-align: center;
+}
+
+.button {
+    font-size: 50px;
+    padding: 50px;
+    color: #e1b12c;
+    text-decoration: none;
+}
+
+.stopwatch {
+    color: #c23616;
+    font-size: 28px;
+    padding-top: 50px;
+}
